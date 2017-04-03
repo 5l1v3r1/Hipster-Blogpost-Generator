@@ -1,0 +1,21 @@
+/*Color scheme from Adobe. Vintage Ralph Lauren.*/
+
+$maroon:#703030;
+$navy:#2F343B;
+$grey:#7E827A;
+$sandstone:#E3CDA4;
+$ltred:#C77966;
+$paper:#F9F8EF;
+$print:#97948a;
+:root {
+	font-color: #fff;
+}
+
+.postbody{
+	color: $print;
+  font-size:1.2em;
+  width:900px;
+  background-color:$paper;
+  padding:45px;
+  margin:45px;
+}

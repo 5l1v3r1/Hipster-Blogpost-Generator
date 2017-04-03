@@ -1,0 +1,4 @@
+.postbody{
+  width:900px;
+  background-color:#880022;
+}
